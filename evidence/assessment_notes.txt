@@ -1,0 +1,22 @@
+Assessment Notes
+
+Target:
+https://demo.owasp-juice.shop
+
+Assessment Type:
+Passive Vulnerability Assessment
+
+Tools Used:
+- Nmap
+- Chrome DevTools
+- Browser Security Inspection
+
+Assessment Activities:
+- Service Enumeration
+- Security Header Analysis
+- Cookie Configuration Review
+- Infrastructure Observation
+
+Ethical Scope:
+Read-only passive assessment only.
+No exploitation performed.
